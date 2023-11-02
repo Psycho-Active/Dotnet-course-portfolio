@@ -1,0 +1,14 @@
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/bin/Debug/net7.0/TodoList
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/bin/Debug/net7.0/TodoList.deps.json
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/bin/Debug/net7.0/TodoList.runtimeconfig.json
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/bin/Debug/net7.0/TodoList.dll
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/bin/Debug/net7.0/TodoList.pdb
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/obj/Debug/net7.0/TodoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/obj/Debug/net7.0/TodoList.AssemblyInfoInputs.cache
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/obj/Debug/net7.0/TodoList.AssemblyInfo.cs
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/obj/Debug/net7.0/TodoList.csproj.CoreCompileInputs.cache
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/obj/Debug/net7.0/TodoList.dll
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/obj/Debug/net7.0/refint/TodoList.dll
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/obj/Debug/net7.0/TodoList.pdb
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/obj/Debug/net7.0/TodoList.genruntimeconfig.cache
+/Users/anthonygrant-cook/Documents/IC/Learning/TodoList/obj/Debug/net7.0/ref/TodoList.dll
